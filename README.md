@@ -1,3 +1,3 @@
 # Bootstrap-Templates
 Responsive templates for web sites created using Bootstrap without any CSS.   
-Link:
+Link:https://sharathpradeep.github.io/Bootstrap-Templates/Glozzom/index.html
